@@ -17,5 +17,5 @@ I enjoy building full-stack applications and exploring how AI/ML can create intu
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhajkhan)  
 - 💻 [GitHub](https://www.github.com/abhajkhan)  
-- 📧 [E-mail](mailto: abhajkhan02@gmail.com)  
-- 🌍 Based in Kerala, India  
+- 📧 [E-mail](mailto:abhajkhan02@gmail.com)  
+- 🌍 Based in Kerala, India
