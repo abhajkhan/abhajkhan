@@ -1,44 +1,21 @@
-# Hi there, I'm **Abhaj Khan** 👋  
 
-**Welcome to my GitHub profile!**  
-I’m a passionate **Full Stack Developer** currently pursuing my **Bachelor of Computer Applications** at the University of Calicut.  
+# Hello 👋  
 
----
+I'm Abhaj.  
 
-## 🌟 About Me  
-- 🎓 **Education**: Final-year BCA Student | University of Calicut  
-- 💻 **Current Internship**: Full Stack Development Intern at **Upcode Software Labs**  
-- 🚀 **Working On**: `Gigger` - A task-posting and management web app  
-- 🔧 **Tech Stack**:  
-  - Frontend: `ReactJS`, `Next.js`, `TypeScript`, `HTML`, `CSS`, `Bootstrap`  
-  - Backend: `Django`, `Python Flask`, `RESTful APIs`  
-  - Databases: `MySQL`, `PostgreSQL`  
-  - Tools: `Git`, `GitHub`, `Postman`  
-  - Programming Languages: `Python`, `JavaScript`, `Java`, `C`  
-- 🌱 **Learning**: Advanced React patterns, Django, and Next.js  
+I enjoy building full-stack applications and exploring how AI/ML can create intuitive, life-simplifying solutions. Currently, I’m pursuing my MCA at TKM College of Engineering. Earlier, I worked as a Software Engineer at [Kiebot](https://www.kiebot.com), where I gained hands-on experience with .NET Core, Angular, Next.js, microservices, and DevOps tools.  
 
----
+## `$ whoami`  
 
-## 🛠️ Skills  
-- **Languages**: Python, JavaScript (TypeScript), Java  
-- **Frameworks/Libraries**: ReactJS, Next.js, Django, Flask, Bootstrap  
-- **Databases**: PostgreSQL, MySQL  
-- **Tools**: Git, GitHub, Postman  
+- 🎓 MCA Student at TKM College of Engineering (BCA, Calicut University)  
+- 💻 Former Software Engineer at [Kiebot Learning Solutions](https://www.kiebot.com)  
+- 🛠️ Skills in .NET Core, Django, React, Next.js, PostgreSQL, Docker, Kubernetes 
+- 🤖 Passionate about AI/ML, building intelligent assistants and automation tools  
+- 🌱 Currently exploring DevOps and cloud-native technologies  
 
----
+## `$ ping`  
 
-## 📫 Connect with Me  
-- 🔗 **LinkedIn**: [linkedin.com/in/abhajkhan](https://www.linkedin.com/in/abhajkhan)  
-- 🌐 **GitHub**: [github.com/abhajkhan](https://github.com/abhajkhan)  
-- ✉️ **Email**: [abhajkhan@outlook.in](mailto:abhajkhan@outlook.in)  
-
----
-
-## 🌱 Interests  
-- Web Design & Full-Stack Development  
-- Machine Learning 
-- Photography & Travel  
-
----
-
-⚡ **"Code, Learn, Build, Repeat!"**
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhajkhan)  
+- 💻 [GitHub](https://www.github.com/abhajkhan)  
+- 📧 [E-mail](mailto: abhajkhan02@gmail.com)  
+- 🌍 Based in Kerala, India  
