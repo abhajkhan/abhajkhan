@@ -1,21 +1,15 @@
-
-# Hello 👋  
-
-I'm Abhaj.  
-
-I enjoy building full-stack applications and exploring how AI/ML can create intuitive, life-simplifying solutions. Currently, I’m pursuing my MCA at TKM College of Engineering. Earlier, I worked as a Software Engineer at [Kiebot](https://www.kiebot.com), where I gained hands-on experience with .NET Core, Angular, Next.js, microservices, and DevOps tools.  
+<h1 align="center"> Hi 👋, I'm Abhaj Khan </h1>
 
 ## `$ whoami`  
 
-- 🎓 MCA Student at TKM College of Engineering (BCA, Calicut University)  
+- 🎓 MCA Student at [TKM College of Engineering](https://tkmce.ac.in/)  
 - 💻 Former Software Engineer at [Kiebot Learning Solutions](https://www.kiebot.com)  
-- 🛠️ Skills in .NET Core, Django, React, Next.js, PostgreSQL, Docker, Kubernetes 
-- 🤖 Passionate about AI/ML, building intelligent assistants and automation tools  
-- 🌱 Currently exploring DevOps and cloud-native technologies  
+- 🛠️ Skills in .NET Core, Django, React, Next.js
+- 🤖 Passionate about AI/ML, building intelligent assistants and automation tools
+- 🌏 Based in Kerala, India 
 
 ## `$ ping`  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/abhajkhan)  
-- 💻 [GitHub](https://www.github.com/abhajkhan)  
-- 📧 [E-mail](mailto:abhajkhan02@gmail.com)  
-- 🌍 Based in Kerala, India
+<b> [Portfolio](https://abhajkhan.github.io) </b> | 
+<b> [LinkedIn](https://www.linkedin.com/in/abhajkhan) </b> | 
+<b> [E-mail](mailto:abhajkhan02@gmail.com) </b>
